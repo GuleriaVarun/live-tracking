@@ -1,0 +1,24 @@
+{
+  "name": "live-tracking",
+  "version": "1.0.0",
+  "description": "Live tracking",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "engines": {
+    "node": "10.x"
+  },
+  "author": "@Varun",
+  "license": "ISC"
+}
